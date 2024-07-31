@@ -36,14 +36,14 @@ window.addEventListener("load", function () {
   }
 
   var buildUrl = "Build";
-  var loaderUrl = buildUrl + "/Ver1.3.14.loader.js";
+  var loaderUrl = buildUrl + "/CatRunTon.loader.js";
   var config = {
-    dataUrl: buildUrl + "/Ver1.3.14.data",
-    frameworkUrl: buildUrl + "/Ver1.3.14.framework.js",
-    codeUrl: buildUrl + "/Ver1.3.14.wasm",
+    dataUrl: buildUrl + "/CatRunTon.data",
+    frameworkUrl: buildUrl + "/CatRunTon.framework.js",
+    codeUrl: buildUrl + "/CatRunTon.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
-    productName: "DogCute",
+    productName: "CatRunTon",
     productVersion: "1.0",
     showBanner: unityShowBanner,
   };
